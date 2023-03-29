@@ -1,0 +1,15 @@
+
+.h1{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .heading{
+    background-color: lightcoral;
+    width: fit-content;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: rgb(62, 33, 95);
+  }
+  
